@@ -1,6 +1,6 @@
 // Feature branch update
 const USERS = {
-  admin: '9999',
+  admin: '123',
   locked_user: '123'
 };
 
